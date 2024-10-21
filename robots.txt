@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://phibulul.github.io/phibulul.txt.gz
+Sitemap: https://phibulul.github.io/app/phibulul.txt.gz
+Sitemap: https://phibulul.github.io/assets/phibulul.txt.gz
+Sitemap: https://phibulul.github.io/css/phibulul.txt.gz
+Sitemap: https://phibulul.github.io/includes/phibulul.txt.gz
+Sitemap: https://phibulul.github.io/item/phibulul.txt.gz
+Sitemap: https://phibulul.github.io/src/phibulul.txt.gz
